@@ -2,7 +2,7 @@
 
 
 
-- I'm from Ceará, I've lived in Rio de Janeiro for 14 years
+- I'm from Ceará, I've lived in Rio de Janeiro 
 
 - I'm currently studying systems analysis and development
 
