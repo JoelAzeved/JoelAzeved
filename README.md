@@ -12,4 +12,5 @@
 
 <div align="center">
   <a href="https://github.com/JoelAzeved">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazeved&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazeved&layout=compact&langs_count=&theme=dark&cache_seconds=1800"/>
+</div>
