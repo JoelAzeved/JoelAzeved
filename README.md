@@ -4,7 +4,7 @@
 
 - I'm from Ceará, I've lived in Rio de Janeiro 
 
-- I'm currently studying systems analysis and development
+- I'm currently studying information systems
 
 - I'm always looking for opportunities to expand my knowledge!
 
